@@ -8,3 +8,246 @@
 21:58:49.115 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей [7]
 21:58:49.116 [main] INFO  Main - Начало скачек. Количество участников: 7
 21:59:09.571 [main] INFO  Main - Окончание скачек. Победитель: Пегас
+22:05:34.964 [main] ERROR Horse - Name is blank
+22:05:34.977 [main] ERROR Horse - Name is blank
+22:05:34.981 [main] ERROR Horse - Name is blank
+22:05:34.986 [main] ERROR Horse - Name is blank
+22:05:34.994 [main] DEBUG Horse - Создание Horse, имя [Плотва], скорость [30.0]
+22:05:34.996 [main] DEBUG Horse - Создание Horse, имя [Плотва], скорость [30.0]
+22:05:36.117 [main] DEBUG Horse - Создание Horse, имя [Бумер], скорость [30.0]
+22:05:36.163 [main] ERROR Horse - Speed is negative
+22:05:36.167 [main] ERROR Horse - Name is null
+22:05:36.170 [main] ERROR Horse -  Distance is negative
+22:05:36.194 [main] ERROR Hippodrome - Horses list is null
+22:05:36.263 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей [50]
+22:05:36.286 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [1.0]
+22:05:36.286 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [2.0]
+22:05:36.287 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [3.0]
+22:05:36.287 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [4.0]
+22:05:36.287 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [5.0]
+22:05:36.287 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [6.0]
+22:05:36.287 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [7.0]
+22:05:36.287 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [8.0]
+22:05:36.287 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [9.0]
+22:05:36.287 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [10.0]
+22:05:36.287 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [11.0]
+22:05:36.287 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [12.0]
+22:05:36.287 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [13.0]
+22:05:36.287 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [14.0]
+22:05:36.287 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [15.0]
+22:05:36.287 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [16.0]
+22:05:36.287 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [17.0]
+22:05:36.287 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [18.0]
+22:05:36.287 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [19.0]
+22:05:36.287 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [20.0]
+22:05:36.288 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [21.0]
+22:05:36.288 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [22.0]
+22:05:36.288 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [23.0]
+22:05:36.288 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [24.0]
+22:05:36.288 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [25.0]
+22:05:36.288 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [26.0]
+22:05:36.288 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [27.0]
+22:05:36.288 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [28.0]
+22:05:36.288 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [29.0]
+22:05:36.288 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [30.0]
+22:05:36.288 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей [30]
+22:05:36.291 [main] DEBUG Horse - Создание Horse, имя [Цезарь], скорость [30.0]
+22:05:36.291 [main] DEBUG Horse - Создание Horse, имя [Стрела], скорость [25.0]
+22:05:36.291 [main] DEBUG Horse - Создание Horse, имя [Сивка], скорость [27.0]
+22:05:36.291 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей [3]
+22:05:36.296 [main] ERROR Hippodrome - Horses list is empty
+22:11:28.643 [main] DEBUG Horse - Создание Horse, имя [Сивка], скорость [12.0]
+22:12:22.084 [main] ERROR Horse - Name is blank
+22:12:22.111 [main] ERROR Horse - Name is blank
+22:12:22.116 [main] ERROR Horse - Name is blank
+22:12:22.119 [main] ERROR Horse - Name is blank
+22:12:22.124 [main] DEBUG Horse - Создание Horse, имя [Плотва], скорость [30.0]
+22:12:22.127 [main] DEBUG Horse - Создание Horse, имя [Плотва], скорость [30.0]
+22:12:22.129 [main] DEBUG Horse - Создание Horse, имя [Бумер], скорость [30.0]
+22:12:22.163 [main] ERROR Horse - Speed is negative
+22:12:22.166 [main] ERROR Horse - Name is null
+22:12:22.169 [main] ERROR Horse -  Distance is negative
+22:12:22.179 [main] DEBUG Horse - Создание Horse, имя [Сивка], скорость [12.0]
+22:12:58.907 [main] ERROR Horse - Name is blank
+22:12:58.936 [main] ERROR Horse - Name is blank
+22:12:58.943 [main] ERROR Horse - Name is blank
+22:12:58.947 [main] ERROR Horse - Name is blank
+22:12:58.955 [main] DEBUG Horse - Создание Horse, имя [Плотва], скорость [30.0]
+22:12:58.959 [main] DEBUG Horse - Создание Horse, имя [Плотва], скорость [30.0]
+22:12:58.962 [main] DEBUG Horse - Создание Horse, имя [Бумер], скорость [30.0]
+22:12:59.007 [main] ERROR Horse - Speed is negative
+22:12:59.011 [main] ERROR Horse - Name is null
+22:12:59.013 [main] ERROR Horse -  Distance is negative
+22:12:59.026 [main] DEBUG Horse - Создание Horse, имя [Сивка], скорость [12.0]
+22:17:17.915 [main] ERROR Horse - Name is blank
+22:17:17.934 [main] ERROR Horse - Name is blank
+22:17:17.943 [main] ERROR Horse - Name is blank
+22:17:17.949 [main] ERROR Horse - Name is blank
+22:17:17.954 [main] DEBUG Horse - Создание Horse, имя [Плотва], скорость [30.0]
+22:17:17.957 [main] DEBUG Horse - Создание Horse, имя [Плотва], скорость [30.0]
+22:17:17.959 [main] DEBUG Horse - Создание Horse, имя [Бумер], скорость [30.0]
+22:17:17.994 [main] ERROR Horse - Speed is negative
+22:17:17.997 [main] ERROR Horse - Name is null
+22:17:18.000 [main] ERROR Horse -  Distance is negative
+22:17:18.015 [main] DEBUG Horse - Создание Horse, имя [Сивка], скорость [12.0]
+22:17:18.025 [main] ERROR Hippodrome - Horses list is null
+22:17:18.084 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей [50]
+22:17:18.110 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [1.0]
+22:17:18.110 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [2.0]
+22:17:18.111 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [3.0]
+22:17:18.111 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [4.0]
+22:17:18.111 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [5.0]
+22:17:18.111 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [6.0]
+22:17:18.111 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [7.0]
+22:17:18.111 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [8.0]
+22:17:18.111 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [9.0]
+22:17:18.111 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [10.0]
+22:17:18.111 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [11.0]
+22:17:18.111 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [12.0]
+22:17:18.111 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [13.0]
+22:17:18.111 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [14.0]
+22:17:18.111 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [15.0]
+22:17:18.111 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [16.0]
+22:17:18.111 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [17.0]
+22:17:18.112 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [18.0]
+22:17:18.112 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [19.0]
+22:17:18.112 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [20.0]
+22:17:18.112 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [21.0]
+22:17:18.112 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [22.0]
+22:17:18.112 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [23.0]
+22:17:18.112 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [24.0]
+22:17:18.112 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [25.0]
+22:17:18.112 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [26.0]
+22:17:18.112 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [27.0]
+22:17:18.112 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [28.0]
+22:17:18.112 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [29.0]
+22:17:18.112 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [30.0]
+22:17:18.112 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей [30]
+22:17:18.115 [main] DEBUG Horse - Создание Horse, имя [Цезарь], скорость [30.0]
+22:17:18.115 [main] DEBUG Horse - Создание Horse, имя [Стрела], скорость [25.0]
+22:17:18.115 [main] DEBUG Horse - Создание Horse, имя [Сивка], скорость [27.0]
+22:17:18.116 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей [3]
+22:17:18.119 [main] ERROR Hippodrome - Horses list is empty
+22:21:00.191 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей [50]
+22:21:00.264 [main] ERROR Hippodrome - Horses list is null
+22:21:00.266 [main] ERROR Hippodrome - Horses list is empty
+22:21:00.267 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [1.0]
+22:21:00.267 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [2.0]
+22:21:00.267 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [3.0]
+22:21:00.268 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [4.0]
+22:21:00.268 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [5.0]
+22:21:00.268 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [6.0]
+22:21:00.268 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [7.0]
+22:21:00.268 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [8.0]
+22:21:00.268 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [9.0]
+22:21:00.268 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [10.0]
+22:21:00.268 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [11.0]
+22:21:00.268 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [12.0]
+22:21:00.268 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [13.0]
+22:21:00.268 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [14.0]
+22:21:00.268 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [15.0]
+22:21:00.269 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [16.0]
+22:21:00.269 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [17.0]
+22:21:00.269 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [18.0]
+22:21:00.269 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [19.0]
+22:21:00.269 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [20.0]
+22:21:00.269 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [21.0]
+22:21:00.269 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [22.0]
+22:21:00.269 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [23.0]
+22:21:00.269 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [24.0]
+22:21:00.269 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [25.0]
+22:21:00.269 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [26.0]
+22:21:00.269 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [27.0]
+22:21:00.269 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [28.0]
+22:21:00.269 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [29.0]
+22:21:00.269 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [30.0]
+22:21:00.269 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей [30]
+22:21:00.270 [main] DEBUG Horse - Создание Horse, имя [Цезарь], скорость [30.0]
+22:21:00.270 [main] DEBUG Horse - Создание Horse, имя [Стрела], скорость [25.0]
+22:21:00.270 [main] DEBUG Horse - Создание Horse, имя [Сивка], скорость [27.0]
+22:21:00.270 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей [3]
+22:21:00.274 [main] ERROR Horse -  Distance is negative
+22:21:00.275 [main] ERROR Horse - Speed is negative
+22:21:00.275 [main] DEBUG Horse - Создание Horse, имя [Бумер], скорость [30.0]
+22:21:00.284 [main] ERROR Horse - Name is null
+22:21:00.285 [main] DEBUG Horse - Создание Horse, имя [Плотва], скорость [30.0]
+22:21:00.285 [main] DEBUG Horse - Создание Horse, имя [Плотва], скорость [30.0]
+22:22:05.994 [main] ERROR Horse - Name is blank
+22:22:06.023 [main] ERROR Horse - Name is blank
+22:22:06.030 [main] ERROR Horse - Name is blank
+22:22:06.034 [main] ERROR Horse - Name is blank
+22:22:06.040 [main] DEBUG Horse - Создание Horse, имя [Плотва], скорость [30.0]
+22:22:06.043 [main] DEBUG Horse - Создание Horse, имя [Плотва], скорость [30.0]
+22:22:06.046 [main] DEBUG Horse - Создание Horse, имя [Бумер], скорость [30.0]
+22:22:06.076 [main] ERROR Horse - Speed is negative
+22:22:06.079 [main] ERROR Horse - Name is null
+22:22:06.082 [main] ERROR Horse -  Distance is negative
+22:22:06.090 [main] DEBUG Horse - Создание Horse, имя [Сивка], скорость [12.0]
+22:28:00.819 [main] ERROR Horse - Name is blank
+22:28:00.848 [main] ERROR Horse - Name is blank
+22:28:00.853 [main] ERROR Horse - Name is blank
+22:28:00.859 [main] ERROR Horse - Name is blank
+22:28:00.870 [main] DEBUG Horse - Создание Horse, имя [Плотва], скорость [30.0]
+22:28:00.876 [main] DEBUG Horse - Создание Horse, имя [Плотва], скорость [30.0]
+22:28:00.878 [main] DEBUG Horse - Создание Horse, имя [Бумер], скорость [30.0]
+22:28:00.918 [main] ERROR Horse - Speed is negative
+22:28:00.922 [main] ERROR Horse - Name is null
+22:28:00.925 [main] ERROR Horse -  Distance is negative
+22:28:00.937 [main] DEBUG Horse - Создание Horse, имя [Сивка], скорость [12.0]
+22:28:15.838 [main] ERROR Hippodrome - Horses list is null
+22:28:15.843 [main] ERROR Hippodrome - Horses list is empty
+22:28:15.845 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [1.0]
+22:28:15.846 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [2.0]
+22:28:15.846 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [3.0]
+22:28:15.846 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [4.0]
+22:28:15.846 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [5.0]
+22:28:15.846 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [6.0]
+22:28:15.847 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [7.0]
+22:28:15.847 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [8.0]
+22:28:15.847 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [9.0]
+22:28:15.847 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [10.0]
+22:28:15.847 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [11.0]
+22:28:15.847 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [12.0]
+22:28:15.847 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [13.0]
+22:28:15.847 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [14.0]
+22:28:15.847 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [15.0]
+22:28:15.847 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [16.0]
+22:28:15.847 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [17.0]
+22:28:15.847 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [18.0]
+22:28:15.847 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [19.0]
+22:28:15.847 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [20.0]
+22:28:15.847 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [21.0]
+22:28:15.847 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [22.0]
+22:28:15.847 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [23.0]
+22:28:15.847 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [24.0]
+22:28:15.847 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [25.0]
+22:28:15.847 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [26.0]
+22:28:15.847 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [27.0]
+22:28:15.847 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [28.0]
+22:28:15.847 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [29.0]
+22:28:15.848 [main] DEBUG Horse - Создание Horse, имя [Лавка], скорость [30.0]
+22:28:15.848 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей [30]
+22:28:15.848 [main] DEBUG Horse - Создание Horse, имя [Цезарь], скорость [30.0]
+22:28:15.848 [main] DEBUG Horse - Создание Horse, имя [Стрела], скорость [25.0]
+22:28:15.848 [main] DEBUG Horse - Создание Horse, имя [Сивка], скорость [27.0]
+22:28:15.848 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей [3]
+22:28:16.795 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей [50]
+22:28:16.859 [main] ERROR Horse - Name is null
+22:28:16.860 [main] DEBUG Horse - Создание Horse, имя [Плотва], скорость [30.0]
+22:28:16.860 [main] DEBUG Horse - Создание Horse, имя [Плотва], скорость [30.0]
+22:28:16.873 [main] DEBUG Horse - Создание Horse, имя [Сивка], скорость [12.0]
+22:28:16.878 [main] ERROR Horse - Speed is negative
+22:28:16.879 [main] ERROR Horse -  Distance is negative
+22:28:16.879 [main] DEBUG Horse - Создание Horse, имя [Бумер], скорость [30.0]
+22:29:11.536 [main] DEBUG Horse - Создание Horse, имя [Бумер], скорость [30.0]
+22:30:46.693 [main] ERROR Horse - Name is blank
+22:30:46.722 [main] ERROR Horse - Name is blank
+22:30:46.727 [main] ERROR Horse - Name is blank
+22:30:46.730 [main] ERROR Horse - Name is blank
+22:30:46.737 [main] DEBUG Horse - Создание Horse, имя [Плотва], скорость [30.0]
+22:30:46.739 [main] DEBUG Horse - Создание Horse, имя [Плотва], скорость [30.0]
+22:30:46.742 [main] DEBUG Horse - Создание Horse, имя [Бумер], скорость [30.0]
+22:30:46.775 [main] ERROR Horse - Speed is negative
+22:30:46.778 [main] ERROR Horse - Name is null
+22:30:46.781 [main] ERROR Horse -  Distance is negative
+22:30:46.792 [main] DEBUG Horse - Создание Horse, имя [Сивка], скорость [12.0]
