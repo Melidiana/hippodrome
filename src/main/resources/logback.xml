@@ -5,8 +5,14 @@
         <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
             <fileNamePattern>${LOG_DIR}/hippodrome.%d{yyyy-MM-dd}.log</fileNamePattern>
         </rollingPolicy>
+        <DefaultRolloverStrategy max="1">
+            <Delete basePath="${sys:mule.home}${sys:file.separator}logs" maxDepth="2">
+                <IfFileName glob="hippodrome.*.log" />
+                <IfLastModified age="7d" />
+            </Delete>
+        </DefaultRolloverStrategy>
         <encoder>
-            <pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n</pattern>
+            <pattern>%d [%thread] %-5level %logger{36} - %msg%n</pattern>
         </encoder>
     </appender>
 
